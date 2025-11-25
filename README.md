@@ -71,7 +71,7 @@ For XAMPP users:
 - Move the project folder to htdocs/
 - Open in browser:
 ```php
-[echo "Hello World!";](http://localhost/Website-Restoran-FastFoodNet/)
+http://localhost/Website-Restoran-FastFoodNet/
 ```
 
 5. Authentication
@@ -135,4 +135,5 @@ Main tables included in trwebresto.sql:
     <td><p> Access protection script</p></td>
   </tr>
 </table>
+
 
